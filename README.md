@@ -2,6 +2,7 @@
 Assignment 2: Machine Learning &amp; Deep Learning Artificial Intelligence Track • Startup Campus, Indonesia
 
 
+
 - MACHINE LEARNING [Case #1]
   
 Dataset: SC_HW1_bank_data
@@ -32,10 +33,15 @@ Libraries: Pandas, Numpy, Scikit-learn, Matplotlib
 
 Objective: Predict House Pricing with Dual Input Settings using Multilayer Perceptron
 
+
 - DEEP LEARNING [Case #4]
   
 Task: CLASSIFICATION
+
 DL Framework: PyTorch
+
 Dataset: Credit Card Fraud 2023
+
 Libraries: Pandas/cuDF, Scikit-learn/cuML, Numpy/cuPy
+
 Objective: Classify credit fraud transactions using Multilayer Perceptron
